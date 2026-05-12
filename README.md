@@ -86,3 +86,16 @@ npm start
 
 - Video extraction functionality is currently under development and will be optimized in future updates.
 
+  ## Screenshots
+  
+### Home page
+![Image](screenshots/Homepage.png)
+
+### select image
+![Select Image](screenshots/image-select.png)
+
+### Embed data
+![Select Image](screenshots/image-embed.png)
+
+### Extract data
+![Select Image](screenshots/image-extact.png)
