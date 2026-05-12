@@ -81,5 +81,8 @@ npm start
   - OpenCV
   - NumPy
   - Flask-CORS
+  - 
+## Future Improvements
 
+- Video extraction functionality is currently under development and will be optimized in future updates.
 
