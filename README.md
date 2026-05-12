@@ -102,4 +102,4 @@ npm start
 
 ### Original vs Stego Image Comparison
 
-![Comparison](screenshots/image-comp.png)
+![Comparison](screenshots/Image-comp.png)
