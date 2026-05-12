@@ -98,4 +98,4 @@ npm start
 ![Select Image](screenshots/image-embed.png)
 
 ### Extract data
-![Select Image](screenshots/image-extact.png)
+![Select Image](screenshots/image-extract.png)
