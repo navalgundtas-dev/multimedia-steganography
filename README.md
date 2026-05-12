@@ -99,3 +99,7 @@ npm start
 
 ### Extract data
 ![Select Image](screenshots/image-extract.png)
+
+### Original vs Stego Image Comparison
+
+![Comparison](screenshots/image-comp.png)
